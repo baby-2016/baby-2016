@@ -13,7 +13,7 @@
 - 🌱 **正在学习**: `MySQL` `JAVA`
 - 💡 **学习目标**: 嵌入式开发工程师 / 后端开发
 - 📫 **如何联系我**: `2185823427@qq.com`
-
+- ⚡ **兴趣**: `Minecraft` `CODE` `东方project`
 ## 🛠️ 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
