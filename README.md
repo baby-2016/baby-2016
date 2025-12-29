@@ -27,8 +27,3 @@
 
 ![嵌入式开发](https://img.shields.io/badge/嵌入式-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white)
 
-
-## 📊 GitHub 统计
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=baby-2016&theme=dark)
-
